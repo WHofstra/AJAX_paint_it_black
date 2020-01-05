@@ -1,1 +1,1 @@
-# AJAX_paint_it_black
+# 'Paint it Black' JS AJAX JSON PHP Multiplayer Opdracht
